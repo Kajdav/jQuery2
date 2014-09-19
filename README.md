@@ -262,7 +262,7 @@ The last weird thing is that we are listing '#item' near our 'click' event. This
 
 Now let's set a variable called task so that we can access the 'this' keyword to pass it into another function.
 
-We are also going to change it's ID to the string 'inProgress'. 
+We are also going to change its ID to the string 'inProgress'. 
 
 *app.js*
 
@@ -334,14 +334,8 @@ Jake is going to lecture about this
 
 <small>it is 3:30am. Goodnightcd</small>
 
-
-
-
-
-
-
-
-
-
-
-
+To add:
+	How many accomplished - Good Job!
+	Center 'New Items' after media query
+	buttons with each item, to make them progress, regress, or delete
+	
